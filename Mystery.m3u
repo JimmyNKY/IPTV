@@ -13,5 +13,6 @@ http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:01:9F:5A&stream=1032489
 http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:8D:1A:65&stream=1032489&extension=ts&play_token=AkP0TxWqhj'
 #EXTINF:-1,NowE 4K
 http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:22:03:E1&stream=1032489&extension=ts&play_token=AkP0TxWqhj'
-
+#EXTINF:-1,Now Sports 1
+http://my-iptv.mk:80/play/live.php?mac=00:1A:79:00:00:39&stream=1032487&extension=ts&play_token=v8SIcpsEte
 
